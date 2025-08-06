@@ -8,10 +8,13 @@ This is a fun and interactive computer vision project built using Python. It all
 
 ---
 
-##  Demo
+## 📽️ Demo
 
-<!-- Add your GIF or screenshot after running the project -->
-![demo](https://user-images.githubusercontent.com/yourusername/demo.gif)
+### ✏️ Sketch Output
+![Sketch Output](https://raw.githubusercontent.com/AsmiiGaurav/live_sketch_colour/main/sketch.png)
+
+### 🎨 Colored Output
+![Colored Output](https://raw.githubusercontent.com/AsmiiGaurav/live_sketch_Colour/main/colored_sketch.png)
 
 ---
 
